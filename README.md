@@ -1,2 +1,2 @@
 # wwoofjapan
-WWOOF Japan responsive redesign.
+Worldwide Opportunities on Organic Farms (WWOOF) Japan responsive redesign.
