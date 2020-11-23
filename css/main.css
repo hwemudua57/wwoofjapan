@@ -1,10 +1,13 @@
 h1 {
   font-family: "Museo Slab", serif;
+  color: #528a36;
 }
 h2,
 h3 {
   font-family: "Museo", sans-serif;
+  color: #f6821f;
 }
 body {
   font-family: "Open sans", "Helvetica Neue", Arial, sans-serif;
+  background-color: #dec9a3;
 }
